@@ -35,7 +35,7 @@ I'm an aspiring **Data Analyst** based in Israel, with a strong interest in:
 - Iterative modeling and diagnostics (Decision Tree, Random Forest, AdaBoost, SVM)
 - Hyperparameter optimization and decision threshold tuning based on business objectives (recall-oriented)
 
-👉 [View the project repository](https://github.com/zennoumoshe-design/covid-19-diagnosis-ml)
+👉 [View the project repository](https://github.com/zennoumoshe/covid-19-diagnosis-ml)
 
 ---
 
@@ -49,7 +49,7 @@ I'm an aspiring **Data Analyst** based in Israel, with a strong interest in:
 - Lightweight models (Logistic Regression, Random Forest)
 - Business-oriented recommendations
 
-👉 [View the project repository](https://github.com/zennoumoshe-design/fraud-detection-bank-transactions)
+👉 [View the project repository](https://github.com/zennoumoshe/fraud-detection-bank-transactions)
 
 ---
 
